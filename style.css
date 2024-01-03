@@ -52,3 +52,11 @@ a {
     width: 30px;
     height: auto;
 }
+
+.section[data-anchor="section1"] {
+    text-align: center;
+}
+
+.section[data-anchor="section1"] .right {
+    margin-top: 20px;
+}
